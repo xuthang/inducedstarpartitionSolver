@@ -1,5 +1,5 @@
 # Information
-This folder contains the implementation of an algorithm for the induced star partition problem
+This folder contains the implementation of an algorithm for the induced star partition problem as described in thesis of Ing. Nguyen Xuan Thang - https://dspace.cvut.cz/handle/10467/108886
 
 The implementation is in ``./starPartitioning/``
 
